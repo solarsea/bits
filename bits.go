@@ -1,5 +1,5 @@
 // Package bits provides various constructs that work with bits
-package bits // import "github.com/solarsea/bits"
+package bits // import "github.com/spaskalev/bits"
 
 import (
 	"strconv"
